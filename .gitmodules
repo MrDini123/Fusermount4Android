@@ -1,0 +1,4 @@
+[submodule "jni/android_external_fuse"]
+	path = jni/android_external_fuse
+	url = https://github.com/LineageOS/android_external_fuse
+	branch = cm-12.1
